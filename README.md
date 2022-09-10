@@ -13,5 +13,5 @@
 
 ### Get in touch with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://img.icons8.com/ios-glyphs/344/linkedin-2--v1.png" />][linkedin]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/>][telegram]
+[<img align="left" alt="bilgehangecici.site" | Linkedin" height="30px" src="https://img.icons8.com/ios-glyphs/344/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="bilgehangecici | Telegram" height="30px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/>][telegram]

@@ -1,20 +1,17 @@
-## Hi there, I'm Matteo👋
+# Hi there, I'm Matteo👋
+---
 
-<!--
-**MatteoPancini/MatteoPancini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Data Science MSc. student 💻
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working pursuing my Master's Degree
+- 🌱 I’m currently learning everything related to the data science's field
+- 👯 I’m looking to collaborate on amazing projects with amazing people
+- 💬 For any answers about my works feel free to ask and have a chat on Telegram: @matteopancini
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-### I'm a Data Science MSc. student 💻
+### Get in touch with me 📝
 
-
+[<img align="left" alt="bilgehangecici.site" height="30px" src="https://img.icons8.com/ios-glyphs/344/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/>][telegram]

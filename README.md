@@ -2,7 +2,7 @@
 
 ## I'm a Data Science MSc. student 💻
 
-- 🔭 I’m currently working pursuing my Master's Degree
+- 🔭 I’m currently working on  pursuing my Double-Master's Degree
 - 🌱 I’m currently learning everything related to the data science's field
 - 👯 I’m looking to collaborate on amazing projects with amazing people
 - 💬 For any answers about my works feel free to ask and have a chat on the channels below
